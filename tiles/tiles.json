@@ -1,0 +1,84 @@
+{
+    "tiles": [
+        {
+            "name": "ocean",
+            "codeSides": [
+                "00",
+                "00",
+                "00",
+                "00"
+            ],
+            "imgPath": "00-00-00-00.png",
+            "variantes": []
+        },
+        {
+            "name": "land-corner",
+            "codeSides": [
+                "00",
+                "00",
+                "01",
+                "10"
+            ],
+            "imgPath": "00-00-01-10.png",
+            "variantes": [
+                "rotation-1",
+                "rotation-2",
+                "rotation-3"
+            ]
+        },
+        {
+            "name": "beach",
+            "codeSides": [
+                "10",
+                "00",
+                "01",
+                "11"
+            ],
+            "imgPath": "10-00-01-11.png",
+            "variantes": [
+                "rotation-1",
+                "rotation-2",
+                "rotation-3"
+            ]
+        },
+        {
+            "name": "ocean-corner",
+            "codeSides": [
+                "11",
+                "10",
+                "01",
+                "11"
+            ],
+            "imgPath": "11-10-01-11.png",
+            "variantes": [
+                "rotation-1",
+                "rotation-2",
+                "rotation-3"
+            ]
+        },
+        {
+            "name": "land",
+            "codeSides": [
+                "11",
+                "11",
+                "11",
+                "11"
+            ],
+            "imgPath": "11-11-11-11.png",
+            "variantes": []
+        },
+        {
+            "name": "double-corner",
+            "codeSides": [
+                "01",
+                "10",
+                "01",
+                "10"
+            ],
+            "imgPath": "01-10-01-10.png",
+            "variantes": [
+                "rotation-1"
+            ]
+        }
+    ]
+}
